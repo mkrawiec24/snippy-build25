@@ -52,7 +52,7 @@ Content-Type: application/json
 }
 
 ### Get the complex snippet
-GET http://localhost:7071/api/snippets/complex-snippet
+GET http://localhost:7071/api/snippets/test-snippet
 
 ### AI-Powered Analysis Operations
 
